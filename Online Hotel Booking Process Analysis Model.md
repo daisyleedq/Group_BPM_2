@@ -17,7 +17,8 @@
 4. Involved IT systems 
 5. Business process list 
 6. Business process description 
-￼  
+￼
+
 ## 1. Introduction 
 
 The theme of the project is online hotel booking company business process analysis and modelling. This company offers an online booking website which show visitors hotel information of hotels all over the world, help accommodation reservation , ranking hotels launch advertisements for some companies so that get profit division. Inside this business, different apartment cooperate with each other for business strategy. 
@@ -200,11 +201,11 @@ Inner Internet traffic counting system(for advertisement click counting)
     * few % of profit;
     * yearly paid;
     * free with limitations (ie. payment by us with delayed transfer, rising price by us).
- 5. IT Department is getting confirmation of selected plan which is sent to Law Department
- 6. Financial Department is getting confirmation of Payment for Contract which is sent to Law Department
- 7. Law Department is confirming Place by checking fulfillment of guidelines with positive or negative result:
-   1. If result is positive Place Account Profile is published
-   2. If result is negative Place Account Profile is not published
-  8. Law Department is contacting client to acknowledge him with results of his Profile publishing 
-  9. Marketing Department is contacting Place by IT Department to show him optional advertising options that he could use
+5. IT Department is getting confirmation of selected plan which is sent to Law Department
+6. Financial Department is getting confirmation of Payment for Contract which is sent to Law Department
+7. Law Department is confirming Place by checking fulfillment of guidelines with positive or negative result:
+  1. If result is positive Place Account Profile is published
+  2. If result is negative Place Account Profile is not published
+8. Law Department is contacting client to acknowledge him with results of his Profile publishing 
+9. Marketing Department is contacting Place by IT Department to show him optional advertising options that he could use
   
