@@ -207,5 +207,5 @@ Inner Internet traffic counting system(for advertisement click counting)
   1. If result is positive Place Account Profile is published
   2. If result is negative Place Account Profile is not published
 8. Law Department is contacting client to acknowledge him with results of his Profile publishing 
-9. Marketing Department is contacting Place by IT Department to show him optional advertising options that he could use
+9. Marketing Department is contacting Place to show him optional advertising options that he could use
   
