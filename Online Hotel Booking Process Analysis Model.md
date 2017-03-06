@@ -1,4 +1,4 @@
- edit1-robgrzelka
+ 
  
 # Online Booking Company Business Automation Modelling Analysis 
  
@@ -21,6 +21,18 @@
 ## 1. Introduction 
 
 The theme of the project is online hotel booking company business process analysis and modelling. This company offers an online booking website which show visitors hotel information of hotels all over the world, help accommodation reservation , ranking hotels launch advertisements for some companies so that get profit division. Inside this business, different apartment cooperate with each other for business strategy. 
+
+Beginning from top to bottom, company, each department and each working personnel has its own mission and goal. 
+
+Goal and Mission of Company are:
+
+  1. Mission
+> Make profit by getting contracts from hotels, hostels, small apartments, called here by term of Places, on the basis of advertising this Places around the world by internet means. Advertising should bring profit for two sides to make win-win situation, where our Company advertise to bring guests to Places and Indirect Services (outer adds of restaurants, water pools, cinemas, travel companies), and Places get more profit from bigger ammount of guests with optionanl automation of reservation system (ie. Uber). 
+  
+  2. Mission of Comapny is  
+> Allow Guests (of Places) find optimal (according to our standards) Places sorted by normalized standard and safety of propability that acommodation will be succesfull with well going holidays or bussines trip.
+  
+Goals and Missions of Departments and Personnel are in such manner that their existences are stated on this terms, which is described accordingly in later sections. Each Department should have tasks to do according to organization structure with included cooperation with other Departments. This tasks will be split to Department Personnel Member which should be set with top-down described works basing on skills and abilities. 
 
 ## 2. Organization structure 
 
@@ -177,3 +189,22 @@ Inner Internet traffic counting system(for advertisement click counting)
 5. If the complaint has to do with services rendered by the company’s client like the hotels or car hire services he complaint is forwarded to it and actions taken 
 6. The customer is sent a mail acknowledging the receipt of the complaints, explanations given if necessary and apologies made. 
  
+### 6.6 Process 6: Advertisement launching process
+
+1. Place (like hotel, hostel, etc...) needs promotion to indirectly bring more guests by directly getting more known.
+2. Place creat free account in our Company Webpage and set all data in Profile, then want to make this Profile public which is paid.
+3. Gateway is setting standard of Place Profile and sort it accordingly to groups.
+4. Place choose kind of advertisement in Company that will be by default prepared by gateway from (3.) by IT Department and Law Department to bring most profitable and optimal solution:
+  1. negotiations;
+  2. standrd contract:
+    * few % of profit;
+    * yearly paid;
+    * free with limitations (ie. payment by us with delayed transfer, rising price by us).
+ 5. IT Department is getting confirmation of selected plan which is sent to Law Department
+ 6. Financial Department is getting confirmation of Payment for Contract which is sent to Law Department
+ 7. Law Department is confirming Place by checking fulfillment of guidelines with positive or negative result:
+   1. If result is positive Place Account Profile is published
+   2. If result is negative Place Account Profile is not published
+  8. Law Department is contacting client to acknowledge him with results of his Profile publishing 
+  9. Marketing Department is contacting Place by IT Department to show him optional advertising options that he could use
+  
