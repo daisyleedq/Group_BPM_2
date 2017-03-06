@@ -30,7 +30,7 @@ Goal and Mission of Company are:
   1. Mission
 > Make profit by getting contracts from hotels, hostels, small apartments, called here by term of Places, on the basis of advertising this Places around the world by internet means. Advertising should bring profit for two sides to make win-win situation, where our Company advertise to bring guests to Places and Indirect Services (outer adds of restaurants, water pools, cinemas, travel companies), and Places get more profit from bigger ammount of guests with optionanl automation of reservation system (ie. Uber). 
   
-  2. Mission of Comapny is  
+  2. Goal
 > Allow Guests (of Places) find optimal (according to our standards) Places sorted by normalized standard and safety of propability that acommodation will be succesfull with well going holidays or bussines trip.
   
 Goals and Missions of Departments and Personnel are in such manner that their existences are stated on this terms, which is described accordingly in later sections. Each Department should have tasks to do according to organization structure with included cooperation with other Departments. This tasks will be split to Department Personnel Member which should be set with top-down described works basing on skills and abilities. 
